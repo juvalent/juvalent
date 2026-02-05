@@ -1,6 +1,9 @@
 # 👩🏻‍💻 Julliane Valentin
 
- Me chamo Julliane Valentin de Oliveira, sou natural de Recife, Pernambuco. Atualmente, estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas na Faculdade Senac Pe e estou em busca de uma oportunidade na área da tecnologia. Estou sempre aprimorando minhas habilidades, com o foco principal em Backend. 
+<p align="center"> Me chamo Julliane Valentin de Oliveira, sou natural de Recife, Pernambuco. Atualmente, estou cursando o terceiro semestre em Análise e Desenvolvimento de Sistemas na Faculdade Senac Pe e estou em busca de uma oportunidade na área da tecnologia. Estou sempre aprimorando minhas habilidades, com o foco principal em Backend. 
+
+#
+### Connect With me
 
  
 <div> 
@@ -12,7 +15,7 @@
 ---
 
 
-### 🤖 Linguagens e Tecnologias
+### Stacks
   
 
 
@@ -26,8 +29,20 @@
   
  </div>
 
- #
+ 
 
+<!-- Statistics -->
+### Github Stats
+
+</div>
+
+| ![Julliane Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juvalent&mode-daily&theme=midnight_purple&title_color=DA70D6&icon_color=EE82EE") | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juvalent&hide=Html&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juvalent&theme=midnight_purple) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juvalent&theme=midnight_purple) | ![](https://streak-stats.demolab.com?user=juvalent&locale=en&mode=daily&theme=midnight_purple&hide_border=false&border_radius=5&order=3) |
+| :-: | :-: |
+
+--- 
 
  <!-- Pacman -->
 <picture>
