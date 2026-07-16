@@ -12,8 +12,8 @@
 <br>
 
 Olá! Me chamo Julliane Valentin, curso o terceiro semestre em Análise e Desenvolvimento 
-de Sistemas na Faculdade Senac e estou em busca de uma oportunidade na área de tecnologia.
-Busco sempre aprimorar minhas habilidades focando no **Backend**.
+de Sistemas e estou em busca de uma oportunidade na área de tecnologia.
+Busco sempre aprimorar minhas habilidades focando no desenvolvimento  **Full Stack**!
 
 <br>
 <br>
@@ -51,8 +51,10 @@ Busco sempre aprimorar minhas habilidades focando no **Backend**.
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
   
  </div>
