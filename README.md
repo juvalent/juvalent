@@ -12,7 +12,7 @@
 <br>
 
 Olá! Me chamo Julliane Valentin, curso o quarto semestre em Análise e Desenvolvimento 
-de Sistemas.Busco sempre aprimorar minhas habilidades focando no desenvolvimento  **Full Stack**!
+de Sistemas. Busco sempre aprimorar minhas habilidades focando no desenvolvimento  **Full Stack**!
 
 <br>
 <br>
